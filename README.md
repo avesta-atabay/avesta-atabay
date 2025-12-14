@@ -1,26 +1,36 @@
 # Hey there 👋
 
-Ben Avesta, Türkiye merkezli bir **Yazılım Mühendisiyim**.
+I'm **Avesta**, a frontend-focused software engineer and designer based in Türkiye.
 
-Çoğunlukla **pyun projelesi** işleriyle uğraşıyorum — **Unity**, **Blender**, **Tailwind** ve **Framer Motion** ile animasyonlar.
+I build **clean, minimal, and performance-oriented interfaces**, with a strong focus on usability, visual clarity, and subtle motion.
 
-Bu profil, küçük projelerimi, denemelerimi ve üzerinde çalıştığım şeyleri yüklediğim yeni bir alan. Buradaki her şey sıfırdan yapılmıştır, hazır şablon veya kopyala/yapıştır yoktur.
-
----
-
-### ⚙️ Araçlar & Teknoloji
-
-* **Frontend:** React, TypeScript, Tailwind
-* **Animasyon:** Framer Motion
-* **Tasarım & Eskiz:** Figma, Procreate, Apple Notes
+This GitHub profile is my personal lab. I share small projects, UI experiments, and things I’m actively working on. Everything here is crafted from scratch — no templates, no shortcuts.
 
 ---
 
-### ☕ Biraz Benim Hakkımda
+## Tools & Tech
 
-* 🐱 Veri bilimi alanında yüksek lisans yapıyorum.
-* 🍵 Oyun oynamayı çok severim.
-* ✨ 3 Boyutlu modeleme yapmayı seviyorum.
+* **React**, **TypeScript**, **Tailwind CSS**
+* **Framer Motion** for micro-interactions and animations
+* **Figma**, **Procreate**, Apple Notes for design, sketching, and ideation
+
+---
+
+## A Bit About Me
+
+* 🎮 Interested in gaming, streaming visuals, and UI systems
+* 🎌 Anime enjoyer — *Demon Slayer* is a favorite
+* 🧠 I like systems that are simple, logical, and easy to maintain
+* ✨ I care about details most people don’t notice
+
+---
+
+## Design & Dev Philosophy
+
+* Minimal UI over visual noise
+* Motion should support meaning, not distract
+* Code should be readable before it is clever
+* If it’s not useful, it doesn’t belong
 
 ---
 
