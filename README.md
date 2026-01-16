@@ -1,72 +1,74 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0A0F1F&height=100&section=header&text=Avesta%20Atabay&fontSize=40&fontColor=ffffff)
+<div align="center">
+  
+![banner](https://dummyimage.com/1200x240/f3e8ff/2e1065&text=Avesta+Atabay)
 
-## 👋 Welcome
+### Software Engineer · ML Enthusiast · Game Developer
 
-I'm **Avesta Atabay**, a Software Engineer & Machine Learning enthusiast from Türkiye.
+*Building quiet, thoughtful systems — with a bit of magic.*
 
-I work across **software development**, **computer vision**, **machine learning**, and **game development**.  
-My approach focuses on **clarity, scalability, and performance** — whether building models, systems, or interactive applications.
-
----
-
-## 🧠 Interests & Strong Areas
-
-- Machine Learning & Computer Vision
-- Full-Stack & System Development
-- Game Development (Unity, C#)
-- Data & Algorithmic Thinking
-- Human-centered UI/UX logic
-- High-performance & clean architecture design
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🌸 About Me
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
+Hi, I'm **Avesta**. I work on **software**, **machine learning**, and **game development**  
+with an interest in systems that are **clean, scalable, and pleasant to interact with**.
 
-**Frameworks & Libraries:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv)
-![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
+Things I enjoy:
 
-**Tools & Platforms:**  
-![VSCode](https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=0078D4)
-![Blender](https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
+- 🌱 Smooth UI, soft visuals, and interaction design
+- 🤖 Machine learning (especially computer vision)
+- 🎮 Game dev & technical systems
+- 📐 Precision, clarity, and subtle motion
 
 ---
 
-## 🎮 A Bit About Me
+## 🛠 Tech & Tools
 
-- I enjoy **systems, visuals, and ML**
-- I like creating tools that feel **simple and logical**
-- I care about **details & clean architecture**
-- I build games, interfaces, and ML pipelines for fun
-- I am currently pursuing a **Master’s in Artificial Intelligence & Robotics**
+**Languages**  
+Python · C# · JavaScript · SQL
 
----
+**ML / CV**  
+TensorFlow · Keras · scikit-learn · OpenCV
 
-## 🧩 Design & Engineering Philosophy
+**Game / Frontend**  
+Unity · Blender · React
 
-- Minimalism > complexity
-- Readable code > clever code
-- Performance is a feature
-- If it does not add value, it does not belong
-- Consistency creates quality
+**Tools**  
+VSCode · Git · Jupyter Notebook · SQL Server
 
 ---
 
-## 🔗 Connect with Me
+## 🌼 Current Focus
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1F?style=flat&logo=firefox&logoColor=white)](https://www.avestaatabay.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1F?style=flat&logo=linkedin)](https://www.linkedin.com/in/avesta-atabay)  
-[![GitHub](https://img.shields.io/badge/GitHub-0A0F1F?style=flat&logo=github)](https://github.com/avesta-atabay)
+Right now I'm exploring:
+
+- Computer vision pipelines
+- Soft UI tooling for better developer experience
+- High-performance C# systems inside Unity
+- Aesthetic + logical interface design
 
 ---
+
+## 🎀 Philosophy
+
+- **Simple is beautiful**
+- **Readable code beats clever code**
+- **Performance is a feature**
+- **If it doesn’t add value, it doesn’t stay**
+
+---
+
+## 🌸 Links
+
+Portfolio: https://www.avestaatabay.com  
+LinkedIn: https://www.linkedin.com/in/avesta-atabay  
+GitHub: https://github.com/avesta-atabay
+
+<div align="center">
+  
+*Thanks for stopping by~*  
+*(soft anime sparkle noise)* ✨
+
+</div>
