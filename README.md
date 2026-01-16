@@ -1,7 +1,5 @@
 <div align="center">
   
-![banner](https://dummyimage.com/1200x240/f3e8ff/2e1065&text=Avesta+Atabay)
-
 ### Software Engineer · ML Enthusiast · Game Developer
 
 *Building quiet, thoughtful systems — with a bit of magic.*
