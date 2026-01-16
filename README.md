@@ -25,7 +25,9 @@ Every project is crafted from scratch, with care and intention — no shortcuts.
 - 🌿 Enjoy working on **machine learning**, especially **computer vision**  
 - 🤖 Currently pursuing a **Master’s in Artificial Intelligence & Robotics**  
 - 🧠 Enjoy building systems that are clean, logical, and maintainable  
-- ✨ CATSSSSS
+- ☕ **Tea lover** — coding sessions go best with warm tea nearby  
+- 🐾 **Cat enjoyer** — I like cats for their quiet logic and chaotic energy  
+- 🎮 Love playing **video games**, especially the ones with good mechanics or atmosphere  
 
 ---
 
