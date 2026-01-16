@@ -12,7 +12,7 @@ Every project is crafted from scratch, with care and intention — no shortcuts.
 
 ## Tools & Tech 🛠️
 
-- **Python, C#, JavaScript, React, Flutter**
+- **Python, SQL, C#, HTM, CSS, JavaScript, React**
 - **TensorFlow, Keras, scikit-learn, OpenCV**
 - **Unity Engine, Blender**
 - **Microsoft SQL Server, Git, Jupyter Notebook, VS Code**
@@ -25,7 +25,7 @@ Every project is crafted from scratch, with care and intention — no shortcuts.
 - 🌿 Enjoy working on **machine learning**, especially **computer vision**  
 - 🤖 Currently pursuing a **Master’s in Artificial Intelligence & Robotics**  
 - 🧠 Enjoy building systems that are clean, logical, and maintainable  
-- ✨ Care about small details most people overlook (UX smoothness, architecture clarity, performance tuning)
+- ✨ CATSSSSS
 
 ---
 
@@ -37,7 +37,6 @@ Every project is crafted from scratch, with care and intention — no shortcuts.
 - **If it doesn’t add value, it doesn’t belong**  
 - **Consistency creates quality**  
 
-Soft note: I prefer tools, codebases, and interfaces that are calm, minimal, and pleasant — almost like a gentle UI in an anime OS scene.
 
 ---
 
