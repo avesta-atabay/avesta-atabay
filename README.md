@@ -1,39 +1,44 @@
 # Hey there 👋
 
-I'm **Avesta**, a frontend-focused software engineer and designer based in Türkiye.
+I'm **Avesta Atabay**, a software engineer specialized in **software development, machine learning**, and **game development**, based in Türkiye.
 
-I build **clean, minimal, and performance-oriented interfaces**, with a strong focus on usability, visual clarity, and subtle motion.
+I build **practical, scalable, and user-oriented systems**, with a focus on clean architecture, performance, and clarity.  
+My work spans **ML pipelines**, **computer vision**, **full-stack development**, and **game development** (Unity & C#).
 
-This GitHub profile is my personal lab. I share small projects, UI experiments, and things I’m actively working on. Everything here is crafted from scratch — no templates, no shortcuts.
+This GitHub profile is my personal lab. I share ML research projects, computer vision work, experimental apps, and game prototypes. Everything here is crafted from scratch — no templates, no shortcuts.
 
 ---
 
 ## Tools & Tech
 
-* **React**, **TypeScript**, **Tailwind CSS**
-* **Framer Motion** for micro-interactions and animations
-* **Figma**, **Procreate**, Apple Notes for design, sketching, and ideation
+- **Python, C#, JavaScript, React, Flutter**
+- **TensorFlow, Keras, scikit-learn, OpenCV**
+- **Unity Engine, Blender**
+- **Microsoft SQL Server, Git, Jupyter Notebook, VS Code**
 
 ---
 
 ## A Bit About Me
 
-* 🎮 Interested in gaming, streaming visuals, and UI systems
-* 🎌 Anime enjoyer — *Demon Slayer* is a favorite
-* 🧠 I like systems that are simple, logical, and easy to maintain
-* ✨ I care about details most people don’t notice
+- 🎮 Interested in **game development**, system design, and highly interactive interfaces  
+- 🌿 Enjoy working on **machine learning**, especially **computer vision**  
+- 🤖 Currently pursuing a **Master’s in Artificial Intelligence & Robotics**  
+- 🧠 I like building things that are simple, logical, and maintainable  
+- ✨ Details matter to me — especially in UI, performance tuning, and system structure  
 
 ---
 
 ## Design & Dev Philosophy
 
-* Minimal UI over visual noise
-* Motion should support meaning, not distract
-* Code should be readable before it is clever
-* If it’s not useful, it doesn’t belong
+- **Simplicity beats complexity**  
+- **Readable code > clever code**  
+- **Performance is a feature**  
+- **If it doesn’t add value, it doesn’t belong**  
+- **Consistency creates quality**  
 
 ---
 
-<p align="center">
-  Daha fazla bilgi için <a href="[www.linkedin.com/in/avesta-atabay-245a761b3]">LinkedIn</a> üzerinden ulaşabilirsiniz.
-</p>
+You can reach me on  
+**LinkedIn:** https://www.linkedin.com/in/avesta-atabay  
+**Portfolio:** https://www.avestaatabay.com  
+**GitHub:** https://github.com/avesta-atabay
