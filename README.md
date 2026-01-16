@@ -1,72 +1,49 @@
-<div align="center">
-  
-### Software Engineer · ML Enthusiast · Game Developer
+# Hey there 👋
 
-*Building quiet, thoughtful systems — with a bit of magic.*
+I'm **Avesta Atabay**, a software engineer specialized in **software development, machine learning**, and **game development**, based in Türkiye.
 
-</div>
+I build **practical, scalable, and user-oriented systems**, with a focus on clean architecture, performance, and clarity.  
+My work spans **ML pipelines**, **computer vision**, **full-stack development**, and **game development** (Unity & C#).
 
----
-
-## 🌸 About Me
-
-Hi, I'm **Avesta**. I work on **software**, **machine learning**, and **game development**  
-with an interest in systems that are **clean, scalable, and pleasant to interact with**.
-
-Things I enjoy:
-
-- 🌱 Smooth UI, soft visuals, and interaction design
-- 🤖 Machine learning (especially computer vision)
-- 🎮 Game dev & technical systems
-- 📐 Precision, clarity, and subtle motion
+This GitHub profile is my personal lab — where I explore ideas, experiment with systems, and build things I find meaningful.  
+Every project is crafted from scratch, with care and intention — no shortcuts. ✨
 
 ---
 
-## 🛠 Tech & Tools
+## Tools & Tech 🛠️
 
-**Languages**  
-Python · C# · JavaScript · SQL
-
-**ML / CV**  
-TensorFlow · Keras · scikit-learn · OpenCV
-
-**Game / Frontend**  
-Unity · Blender · React
-
-**Tools**  
-VSCode · Git · Jupyter Notebook · SQL Server
+- **Python, C#, JavaScript, React, Flutter**
+- **TensorFlow, Keras, scikit-learn, OpenCV**
+- **Unity Engine, Blender**
+- **Microsoft SQL Server, Git, Jupyter Notebook, VS Code**
 
 ---
 
-## 🌼 Current Focus
+## A Bit About Me 🌸
 
-Right now I'm exploring:
-
-- Computer vision pipelines
-- Soft UI tooling for better developer experience
-- High-performance C# systems inside Unity
-- Aesthetic + logical interface design
-
----
-
-## 🎀 Philosophy
-
-- **Simple is beautiful**
-- **Readable code beats clever code**
-- **Performance is a feature**
-- **If it doesn’t add value, it doesn’t stay**
+- 🎮 Interested in **game development**, system design, and highly interactive interfaces  
+- 🌿 Enjoy working on **machine learning**, especially **computer vision**  
+- 🤖 Currently pursuing a **Master’s in Artificial Intelligence & Robotics**  
+- 🧠 Enjoy building systems that are clean, logical, and maintainable  
+- ✨ Care about small details most people overlook (UX smoothness, architecture clarity, performance tuning)
 
 ---
 
-## 🌸 Links
+## Design & Dev Philosophy 🍃
 
-Portfolio: https://www.avestaatabay.com  
-LinkedIn: https://www.linkedin.com/in/avesta-atabay  
-GitHub: https://github.com/avesta-atabay
+- **Simplicity beats complexity**  
+- **Readable code > clever code**  
+- **Performance is a feature**  
+- **If it doesn’t add value, it doesn’t belong**  
+- **Consistency creates quality**  
 
-<div align="center">
-  
-*Thanks for stopping by~*  
-*(soft anime sparkle noise)* ✨
+Soft note: I prefer tools, codebases, and interfaces that are calm, minimal, and pleasant — almost like a gentle UI in an anime OS scene.
 
-</div>
+---
+
+You can reach me on 🌼  
+**LinkedIn:** https://www.linkedin.com/in/avesta-atabay  
+**Portfolio:** https://www.avestaatabay.com  
+**GitHub:** https://github.com/avesta-atabay
+
+> Thanks for visiting — have a peaceful coding session today. ✨
