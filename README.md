@@ -3,7 +3,7 @@
 I'm **Avesta Atabay**, a software engineer specialized in **software development, machine learning**, and **game development**, based in Türkiye.
 
 I build **practical, scalable, and user-oriented systems**, with a focus on clean architecture, performance, and clarity.  
-My work spans **ML pipelines**, **computer vision**, **full-stack development**, and **game development** (Unity & C#).
+My work spans **ML pipelines**, **computer vision**, and **game development** (Unity & C#).
 
 This GitHub profile is my personal lab — where I explore ideas, experiment with systems, and build things I find meaningful.  
 Every project is crafted from scratch, with care and intention — no shortcuts. ✨
